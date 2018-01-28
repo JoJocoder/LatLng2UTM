@@ -61,7 +61,7 @@ def ArcLengthOfMeridian(phi):
 	return result
 if __name__ == '__main__':
 	print(LatLng2UTM(32.089648,118.748517))
-  //[665007.1204623702, 3551710.38908969, 50]
+  #[665007.1204623702, 3551710.38908969, 50]
 
 
 
